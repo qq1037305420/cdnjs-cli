@@ -1,4 +1,2 @@
-.*.sw*
-*.pyc
-*.un~
-session.vim
+node_modules
+lib
