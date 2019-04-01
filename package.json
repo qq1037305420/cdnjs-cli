@@ -1,0 +1,19 @@
+{
+  "name": "cdncli",
+  "version": "1.0.0",
+  "description": "download cdns",
+  "main": "cdnjsdl.js",
+  "scripts": {
+    "test": "none"
+  },
+  "keywords": [
+    "cdnjs",
+    "cdn download"
+  ],
+  "author": "tk sun",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "request": "^2.88.0"
+  }
+}
